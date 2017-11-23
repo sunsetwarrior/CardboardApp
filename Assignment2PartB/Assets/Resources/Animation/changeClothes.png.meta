@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: ea504c6da14c98047a7eaff9d48e749d
+timeCreated: 1510909949
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: changeClothes_0
+    21300002: changeClothes_1
+    21300004: changeClothes_2
+    21300006: changeClothes_3
+    21300008: changeClothes_4
+    21300010: changeClothes_5
+    21300012: changeClothes_6
+    21300014: changeClothes_7
+    21300016: changeClothes_8
+    21300018: changeClothes_9
+    21300020: changeClothes_10
+    21300022: changeClothes_11
+    21300024: changeClothes_12
+    21300026: changeClothes_13
+    21300028: changeClothes_14
+    21300030: changeClothes_15
+    21300032: changeClothes_16
+    21300034: changeClothes_17
+    21300036: changeClothes_18
+    21300038: changeClothes_19
+    21300040: changeClothes_20
+    21300042: changeClothes_21
+    21300044: changeClothes_22
+    21300046: changeClothes_23
+    21300048: changeClothes_24
+    21300050: changeClothes_25
+    21300052: changeClothes_26
+    21300054: changeClothes_27
+    21300056: changeClothes_28
+    21300058: changeClothes_29
+    21300060: changeClothes_30
+    21300062: changeClothes_31
+    21300064: changeClothes_32
+    21300066: changeClothes_33
+    21300068: changeClothes_34
+    21300070: changeClothes_35
+    21300072: changeClothes_36
+    21300074: changeClothes_37
+    21300076: changeClothes_38
+    21300078: changeClothes_39
+    21300080: changeClothes_40
+    21300082: changeClothes_41
+    21300084: changeClothes_42
+    21300086: changeClothes_43
+    21300088: changeClothes_44
+    21300090: changeClothes_45
+    21300092: changeClothes_46
+    21300094: changeClothes_47
+    21300096: changeClothes_48
+    21300098: changeClothes_49
+    21300100: changeClothes_50
+    21300102: changeClothes_51
+    21300104: changeClothes_52
+    21300106: changeClothes_53
+    21300108: changeClothes_54
+    21300110: changeClothes_55
+    21300112: changeClothes_56
+    21300114: changeClothes_57
+    21300116: changeClothes_58
+    21300118: changeClothes_59
+    21300120: changeClothes_60
+    21300122: changeClothes_61
+    21300124: changeClothes_62
+    21300126: changeClothes_63
+    21300128: changeClothes_64
+    21300130: changeClothes_65
+    21300132: changeClothes_66
+    21300134: changeClothes_67
+    21300136: changeClothes_68
+    21300138: changeClothes_69
+    21300140: changeClothes_70
+    21300142: changeClothes_71
+    21300144: changeClothes_72
+    21300146: changeClothes_73
+    21300148: changeClothes_74
+    21300150: changeClothes_75
+    21300152: changeClothes_76
+    21300154: changeClothes_77
+    21300156: changeClothes_78
+    21300158: changeClothes_79
+    21300160: changeClothes_80
+    21300162: changeClothes_81
+    21300164: changeClothes_82
+    21300166: changeClothes_83
+    21300168: changeClothes_84
+    21300170: changeClothes_85
+    21300172: changeClothes_86
+    21300174: changeClothes_87
+    21300176: changeClothes_88
+    21300178: changeClothes_89
+    21300180: changeClothes_90
+    21300182: changeClothes_91
+    21300184: changeClothes_92
+    21300186: changeClothes_93
+    21300188: changeClothes_94
+    21300190: changeClothes_95
+    21300192: changeClothes_96
+    21300194: changeClothes_97
+    21300196: changeClothes_98
+    21300198: changeClothes_99
+    21300200: changeClothes_100
+    21300202: changeClothes_101
+    21300204: changeClothes_102
+    21300206: changeClothes_103
+    21300208: changeClothes_104
+    21300210: changeClothes_105
+    21300212: changeClothes_106
+    21300214: changeClothes_107
+    21300216: changeClothes_108
+    21300218: changeClothes_109
+    21300220: changeClothes_110
+    21300222: changeClothes_111
+    21300224: changeClothes_112
+    21300226: changeClothes_113
+    21300228: changeClothes_114
+    21300230: changeClothes_115
+    21300232: changeClothes_116
+    21300234: changeClothes_117
+    21300236: changeClothes_118
+    21300238: changeClothes_119
+    21300240: changeClothes_120
+    21300242: changeClothes_121
+    21300244: changeClothes_122
+    21300246: changeClothes_123
+    21300248: changeClothes_124
+    21300250: changeClothes_125
+    21300252: changeClothes_126
+    21300254: changeClothes_127
+    21300256: changeClothes_128
+    21300258: changeClothes_129
+    21300260: changeClothes_130
+    21300262: changeClothes_131
+    21300264: changeClothes_132
+    21300266: changeClothes_133
+    21300268: changeClothes_134
+    21300270: changeClothes_135
+    21300272: changeClothes_136
+    21300274: changeClothes_137
+    21300276: changeClothes_138
+    21300278: changeClothes_139
+    21300280: changeClothes_140
+    21300282: changeClothes_141
+    21300284: changeClothes_142
+    21300286: changeClothes_143
+    21300288: changeClothes_144
+    21300290: changeClothes_145
+    21300292: changeClothes_146
+    21300294: changeClothes_147
+    21300296: changeClothes_148
+    21300298: changeClothes_149
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: changeClothes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_21
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_23
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_33
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_35
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_45
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_47
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_54
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_55
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_57
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_58
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_59
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_64
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_65
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_67
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_69
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_71
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_77
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_78
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_79
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_80
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_81
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_82
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_83
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_87
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_88
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_89
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_90
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_91
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_93
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_94
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_95
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_97
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_100
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_101
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_102
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_103
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_104
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_105
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_106
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_107
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_109
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_110
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_112
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_113
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_114
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_115
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_116
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_117
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_118
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_119
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_121
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_122
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_123
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_124
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_125
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_126
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_127
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_128
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_129
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_130
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_131
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_133
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_134
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_137
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_138
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_139
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_140
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_141
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_142
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_143
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_145
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_146
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_147
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_148
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: changeClothes_149
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

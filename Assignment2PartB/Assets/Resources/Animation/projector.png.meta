@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 2ca0ae9d3bf939f468f536e310ca4dca
+timeCreated: 1510908889
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: projector_0
+    21300002: projector_1
+    21300004: projector_2
+    21300006: projector_3
+    21300008: projector_4
+    21300010: projector_5
+    21300012: projector_6
+    21300014: projector_7
+    21300016: projector_8
+    21300018: projector_9
+    21300020: projector_10
+    21300022: projector_11
+    21300024: projector_12
+    21300026: projector_13
+    21300028: projector_14
+    21300030: projector_15
+    21300032: projector_16
+    21300034: projector_17
+    21300036: projector_18
+    21300038: projector_19
+    21300040: projector_20
+    21300042: projector_21
+    21300044: projector_22
+    21300046: projector_23
+    21300048: projector_24
+    21300050: projector_25
+    21300052: projector_26
+    21300054: projector_27
+    21300056: projector_28
+    21300058: projector_29
+    21300060: projector_30
+    21300062: projector_31
+    21300064: projector_32
+    21300066: projector_33
+    21300068: projector_34
+    21300070: projector_35
+    21300072: projector_36
+    21300074: projector_37
+    21300076: projector_38
+    21300078: projector_39
+    21300080: projector_40
+    21300082: projector_41
+    21300084: projector_42
+    21300086: projector_43
+    21300088: projector_44
+    21300090: projector_45
+    21300092: projector_46
+    21300094: projector_47
+    21300096: projector_48
+    21300098: projector_49
+    21300100: projector_50
+    21300102: projector_51
+    21300104: projector_52
+    21300106: projector_53
+    21300108: projector_54
+    21300110: projector_55
+    21300112: projector_56
+    21300114: projector_57
+    21300116: projector_58
+    21300118: projector_59
+    21300120: projector_60
+    21300122: projector_61
+    21300124: projector_62
+    21300126: projector_63
+    21300128: projector_64
+    21300130: projector_65
+    21300132: projector_66
+    21300134: projector_67
+    21300136: projector_68
+    21300138: projector_69
+    21300140: projector_70
+    21300142: projector_71
+    21300144: projector_72
+    21300146: projector_73
+    21300148: projector_74
+    21300150: projector_75
+    21300152: projector_76
+    21300154: projector_77
+    21300156: projector_78
+    21300158: projector_79
+    21300160: projector_80
+    21300162: projector_81
+    21300164: projector_82
+    21300166: projector_83
+    21300168: projector_84
+    21300170: projector_85
+    21300172: projector_86
+    21300174: projector_87
+    21300176: projector_88
+    21300178: projector_89
+    21300180: projector_90
+    21300182: projector_91
+    21300184: projector_92
+    21300186: projector_93
+    21300188: projector_94
+    21300190: projector_95
+    21300192: projector_96
+    21300194: projector_97
+    21300196: projector_98
+    21300198: projector_99
+    21300200: projector_100
+    21300202: projector_101
+    21300204: projector_102
+    21300206: projector_103
+    21300208: projector_104
+    21300210: projector_105
+    21300212: projector_106
+    21300214: projector_107
+    21300216: projector_108
+    21300218: projector_109
+    21300220: projector_110
+    21300222: projector_111
+    21300224: projector_112
+    21300226: projector_113
+    21300228: projector_114
+    21300230: projector_115
+    21300232: projector_116
+    21300234: projector_117
+    21300236: projector_118
+    21300238: projector_119
+    21300240: projector_120
+    21300242: projector_121
+    21300244: projector_122
+    21300246: projector_123
+    21300248: projector_124
+    21300250: projector_125
+    21300252: projector_126
+    21300254: projector_127
+    21300256: projector_128
+    21300258: projector_129
+    21300260: projector_130
+    21300262: projector_131
+    21300264: projector_132
+    21300266: projector_133
+    21300268: projector_134
+    21300270: projector_135
+    21300272: projector_136
+    21300274: projector_137
+    21300276: projector_138
+    21300278: projector_139
+    21300280: projector_140
+    21300282: projector_141
+    21300284: projector_142
+    21300286: projector_143
+    21300288: projector_144
+    21300290: projector_145
+    21300292: projector_146
+    21300294: projector_147
+    21300296: projector_148
+    21300298: projector_149
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: projector_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_21
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_23
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_33
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_35
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_45
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_47
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_54
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_55
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_57
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_58
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_59
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_64
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_65
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_67
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_69
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_71
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_77
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_78
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_79
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_80
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_81
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_82
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_83
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_87
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_88
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_89
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_90
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_91
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_93
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_94
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_95
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_97
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_100
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_101
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_102
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_103
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_104
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_105
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_106
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_107
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_109
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_110
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_112
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_113
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_114
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_115
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_116
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_117
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_118
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_119
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_121
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_122
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_123
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_124
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_125
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_126
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_127
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_128
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_129
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_130
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_131
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_133
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_134
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_137
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_138
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_139
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_140
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_141
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_142
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_143
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_145
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_146
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_147
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_148
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: projector_149
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

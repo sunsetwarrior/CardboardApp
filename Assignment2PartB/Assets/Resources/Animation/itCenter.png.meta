@@ -1,0 +1,2338 @@
+fileFormatVersion: 2
+guid: 1ed51364e6b877f46a54bb0436f44c19
+timeCreated: 1510910855
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: itCenter_0
+    21300002: itCenter_1
+    21300004: itCenter_2
+    21300006: itCenter_3
+    21300008: itCenter_4
+    21300010: itCenter_5
+    21300012: itCenter_6
+    21300014: itCenter_7
+    21300016: itCenter_8
+    21300018: itCenter_9
+    21300020: itCenter_10
+    21300022: itCenter_11
+    21300024: itCenter_12
+    21300026: itCenter_13
+    21300028: itCenter_14
+    21300030: itCenter_15
+    21300032: itCenter_16
+    21300034: itCenter_17
+    21300036: itCenter_18
+    21300038: itCenter_19
+    21300040: itCenter_20
+    21300042: itCenter_21
+    21300044: itCenter_22
+    21300046: itCenter_23
+    21300048: itCenter_24
+    21300050: itCenter_25
+    21300052: itCenter_26
+    21300054: itCenter_27
+    21300056: itCenter_28
+    21300058: itCenter_29
+    21300060: itCenter_30
+    21300062: itCenter_31
+    21300064: itCenter_32
+    21300066: itCenter_33
+    21300068: itCenter_34
+    21300070: itCenter_35
+    21300072: itCenter_36
+    21300074: itCenter_37
+    21300076: itCenter_38
+    21300078: itCenter_39
+    21300080: itCenter_40
+    21300082: itCenter_41
+    21300084: itCenter_42
+    21300086: itCenter_43
+    21300088: itCenter_44
+    21300090: itCenter_45
+    21300092: itCenter_46
+    21300094: itCenter_47
+    21300096: itCenter_48
+    21300098: itCenter_49
+    21300100: itCenter_50
+    21300102: itCenter_51
+    21300104: itCenter_52
+    21300106: itCenter_53
+    21300108: itCenter_54
+    21300110: itCenter_55
+    21300112: itCenter_56
+    21300114: itCenter_57
+    21300116: itCenter_58
+    21300118: itCenter_59
+    21300120: itCenter_60
+    21300122: itCenter_61
+    21300124: itCenter_62
+    21300126: itCenter_63
+    21300128: itCenter_64
+    21300130: itCenter_65
+    21300132: itCenter_66
+    21300134: itCenter_67
+    21300136: itCenter_68
+    21300138: itCenter_69
+    21300140: itCenter_70
+    21300142: itCenter_71
+    21300144: itCenter_72
+    21300146: itCenter_73
+    21300148: itCenter_74
+    21300150: itCenter_75
+    21300152: itCenter_76
+    21300154: itCenter_77
+    21300156: itCenter_78
+    21300158: itCenter_79
+    21300160: itCenter_80
+    21300162: itCenter_81
+    21300164: itCenter_82
+    21300166: itCenter_83
+    21300168: itCenter_84
+    21300170: itCenter_85
+    21300172: itCenter_86
+    21300174: itCenter_87
+    21300176: itCenter_88
+    21300178: itCenter_89
+    21300180: itCenter_90
+    21300182: itCenter_91
+    21300184: itCenter_92
+    21300186: itCenter_93
+    21300188: itCenter_94
+    21300190: itCenter_95
+    21300192: itCenter_96
+    21300194: itCenter_97
+    21300196: itCenter_98
+    21300198: itCenter_99
+    21300200: itCenter_100
+    21300202: itCenter_101
+    21300204: itCenter_102
+    21300206: itCenter_103
+    21300208: itCenter_104
+    21300210: itCenter_105
+    21300212: itCenter_106
+    21300214: itCenter_107
+    21300216: itCenter_108
+    21300218: itCenter_109
+    21300220: itCenter_110
+    21300222: itCenter_111
+    21300224: itCenter_112
+    21300226: itCenter_113
+    21300228: itCenter_114
+    21300230: itCenter_115
+    21300232: itCenter_116
+    21300234: itCenter_117
+    21300236: itCenter_118
+    21300238: itCenter_119
+    21300240: itCenter_120
+    21300242: itCenter_121
+    21300244: itCenter_122
+    21300246: itCenter_123
+    21300248: itCenter_124
+    21300250: itCenter_125
+    21300252: itCenter_126
+    21300254: itCenter_127
+    21300256: itCenter_128
+    21300258: itCenter_129
+    21300260: itCenter_130
+    21300262: itCenter_131
+    21300264: itCenter_132
+    21300266: itCenter_133
+    21300268: itCenter_134
+    21300270: itCenter_135
+    21300272: itCenter_136
+    21300274: itCenter_137
+    21300276: itCenter_138
+    21300278: itCenter_139
+    21300280: itCenter_140
+    21300282: itCenter_141
+    21300284: itCenter_142
+    21300286: itCenter_143
+    21300288: itCenter_144
+    21300290: itCenter_145
+    21300292: itCenter_146
+    21300294: itCenter_147
+    21300296: itCenter_148
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itCenter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 960
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_21
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_23
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 880
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_33
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_35
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 800
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_45
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 720
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_50
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_52
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_53
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_54
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_56
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_58
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_62
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_64
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_65
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_66
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_68
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_69
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_70
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_72
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_75
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_76
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_77
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_78
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_79
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_80
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_81
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_82
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_84
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_85
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_86
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_88
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_89
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_90
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_91
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_92
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_93
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_94
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_96
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_97
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_98
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_100
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_101
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_102
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_103
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_104
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_105
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_106
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_108
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_109
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_110
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_111
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_112
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_113
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_114
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_115
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_116
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_117
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_118
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_121
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_122
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_123
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_124
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_125
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_126
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_127
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_128
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_129
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_130
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_132
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_133
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_134
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_135
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_136
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_137
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_138
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_139
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_140
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_141
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_142
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_144
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_145
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_146
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_147
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: itCenter_148
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

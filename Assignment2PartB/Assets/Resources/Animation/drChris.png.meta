@@ -1,0 +1,1633 @@
+fileFormatVersion: 2
+guid: d65abd1e96f288b4e99234879e04118a
+timeCreated: 1510908613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: drChris_0
+    21300002: drChris_1
+    21300004: drChris_2
+    21300006: drChris_3
+    21300008: drChris_4
+    21300010: drChris_5
+    21300012: drChris_6
+    21300014: drChris_7
+    21300016: drChris_8
+    21300018: drChris_9
+    21300020: drChris_10
+    21300022: drChris_11
+    21300024: drChris_12
+    21300026: drChris_13
+    21300028: drChris_14
+    21300030: drChris_15
+    21300032: drChris_16
+    21300034: drChris_17
+    21300036: drChris_18
+    21300038: drChris_19
+    21300040: drChris_20
+    21300042: drChris_21
+    21300044: drChris_22
+    21300046: drChris_23
+    21300048: drChris_24
+    21300050: drChris_25
+    21300052: drChris_26
+    21300054: drChris_27
+    21300056: drChris_28
+    21300058: drChris_29
+    21300060: drChris_30
+    21300062: drChris_31
+    21300064: drChris_32
+    21300066: drChris_33
+    21300068: drChris_34
+    21300070: drChris_35
+    21300072: drChris_36
+    21300074: drChris_37
+    21300076: drChris_38
+    21300078: drChris_39
+    21300080: drChris_40
+    21300082: drChris_41
+    21300084: drChris_42
+    21300086: drChris_43
+    21300088: drChris_44
+    21300090: drChris_45
+    21300092: drChris_46
+    21300094: drChris_47
+    21300096: drChris_48
+    21300098: drChris_49
+    21300100: drChris_50
+    21300102: drChris_51
+    21300104: drChris_52
+    21300106: drChris_53
+    21300108: drChris_54
+    21300110: drChris_55
+    21300112: drChris_56
+    21300114: drChris_57
+    21300116: drChris_58
+    21300118: drChris_59
+    21300120: drChris_60
+    21300122: drChris_61
+    21300124: drChris_62
+    21300126: drChris_63
+    21300128: drChris_64
+    21300130: drChris_65
+    21300132: drChris_66
+    21300134: drChris_67
+    21300136: drChris_68
+    21300138: drChris_69
+    21300140: drChris_70
+    21300142: drChris_71
+    21300144: drChris_72
+    21300146: drChris_73
+    21300148: drChris_74
+    21300150: drChris_75
+    21300152: drChris_76
+    21300154: drChris_77
+    21300156: drChris_78
+    21300158: drChris_79
+    21300160: drChris_80
+    21300162: drChris_81
+    21300164: drChris_82
+    21300166: drChris_83
+    21300168: drChris_84
+    21300170: drChris_85
+    21300172: drChris_86
+    21300174: drChris_87
+    21300176: drChris_88
+    21300178: drChris_89
+    21300180: drChris_90
+    21300182: drChris_91
+    21300184: drChris_92
+    21300186: drChris_93
+    21300188: drChris_94
+    21300190: drChris_95
+    21300192: drChris_96
+    21300194: drChris_97
+    21300196: drChris_98
+    21300198: drChris_99
+    21300200: drChris_100
+    21300202: drChris_101
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drChris_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 640
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_21
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_23
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 560
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_33
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_35
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 480
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_45
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_47
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 400
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_52
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_54
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_55
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_57
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_58
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_59
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 320
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_64
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_65
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_67
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_69
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_71
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 240
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_75
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_77
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_78
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_79
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_80
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_81
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_82
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_83
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 160
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_85
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_87
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_88
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_89
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_90
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_91
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_93
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_94
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_95
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 80
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_97
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_100
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drChris_101
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 150
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
